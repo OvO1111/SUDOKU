@@ -14,8 +14,6 @@ your computer, you should at least pre-install all the packages in the package l
 Based on these libraries, you could input `python solve_sudoku_puzzle.py --model output/torch128.ckpt --image img/1-1.png`
 in the command line to check the results of `1-1.png`, or change the model and image as you like.
 ----
-`./bin` is the directory of temporary files, you can safely ignore it  
-`./data` is the directory reserved for MNIST, Chinese and my test cases  
 `./img` is the directory for Sudokus  
 `./output` is the directory for results generated in the process
 ---
